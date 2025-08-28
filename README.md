@@ -1,2 +1,2 @@
-# facerecognitionEX6
+# EX6DevopsVisualization
 develop face recognition
