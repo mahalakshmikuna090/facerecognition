@@ -1,2 +1,2 @@
-# facerecognition EX6
+# facerecognitionEX6
 develop face recognition
